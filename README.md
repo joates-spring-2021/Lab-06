@@ -1,2 +1,2 @@
-# Lab-06
-I'd like your input
+# Lab-06 - Rock, Paper, Scissors
+
