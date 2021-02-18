@@ -15,9 +15,30 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
 1. Your program shall first choose a computer weapon to play against the user, but not display the weapon until after the user has selected.
 2. Your program shall then announce the beginning of the round and use the function input() to prompt the user for their weapon of choice.
 3. Your program shall compare the two weapons and determine a winner (or a tie) and the results shall be displayed using print().
+    
+    For example, if the user chooses 'r' for Rock, the format of the three possible outcomes shall be as follows:
+  > Computer chose r. Call it a draw.  
+  > Computer chose p. Computer wins!  
+  > Computer chose s. You win!
 4. Your program shall continue looping for user input until the user types "quit" or "exit" or something similar to end the game.
 5. Your program shall keep track of wins, losses and ties and display the final "score board" at the end of the game.
-6. Rock shall beat Scissors.  Scissors shall beat Paper.  Paper shall beat Rock.
+
+    Here are three examples of the end-of-game score board format:
+    > Computer: 4  
+    You: 4  
+    Ties: 3  
+    Call it a draw!
+
+    > Computer: 5  
+    You: 3  
+    Ties: 3  
+    Computer wins!
+
+    > Computer: 5  
+    You: 7  
+    Ties: 3  
+    You win!
+
 
 # Specifications
 At the beginning of each round your program should ask the user for input.  To make it easier on the user, you can just require R, P, S or Q.  Be prepared to handle upper or lower case entries.  If the user inputs something other than the legal entries, you will have to handle that too.
