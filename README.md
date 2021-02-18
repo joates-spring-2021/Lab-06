@@ -27,17 +27,17 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
     > Computer: 4  
     You: 4  
     Ties: 3  
-    Call it a draw!
+    You tied!
 
     > Computer: 5  
     You: 3  
     Ties: 3  
-    Computer wins!
+    Computer won!
 
     > Computer: 5  
     You: 7  
     Ties: 3  
-    You win!
+    You won!
 
 
 # Specifications
