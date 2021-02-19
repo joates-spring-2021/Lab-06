@@ -1,0 +1,45 @@
+Make your choice: (R, P, S, Q) > 
+r
+Computer chose Rock. Call it a draw.
+Make your choice: (R, P, S, Q) > 
+s
+Computer chose Paper. You win.
+Make your choice: (R, P, S, Q) > 
+s
+Computer chose Rock. Computer wins.
+Make your choice: (R, P, S, Q) > 
+p
+Computer chose Rock. You win.
+Make your choice: (R, P, S, Q) > 
+p
+Computer chose Rock. You win.
+Make your choice: (R, P, S, Q) > 
+r
+Computer chose Rock. Call it a draw.
+Make your choice: (R, P, S, Q) > 
+r
+Computer chose Rock. Call it a draw.
+Make your choice: (R, P, S, Q) > 
+s
+Computer chose Paper. You win.
+Make your choice: (R, P, S, Q) > 
+p
+Computer chose Rock. You win.
+Make your choice: (R, P, S, Q) > 
+r
+Computer chose Rock. Call it a draw.
+Make your choice: (R, P, S, Q) > 
+p
+Computer chose Paper. Call it a draw.
+Make your choice: (R, P, S, Q) > 
+p
+Computer chose Rock. You win.
+Make your choice: (R, P, S, Q) > 
+p
+Computer chose Scissors. Computer wins.
+Make your choice: (R, P, S, Q) > 
+q
+Computer: 2
+You: 6
+Ties: 5
+You won!
