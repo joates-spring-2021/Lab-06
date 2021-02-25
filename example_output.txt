@@ -11,6 +11,9 @@ Make your choice: (R, P, S, Q) >
 p
 Computer chose Rock. You win.
 Make your choice: (R, P, S, Q) > 
+m
+Invalid entry. Try again
+Make your choice: (R, P, S, Q) > 
 p
 Computer chose Rock. You win.
 Make your choice: (R, P, S, Q) > 

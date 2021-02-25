@@ -20,7 +20,8 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
   > Computer chose Rock. Call it a draw.  
   > Computer chose Paper. Computer wins!  
   > Computer chose Scissors. You win!
-4. Your program shall continue looping for user input until the user types "quit" or "exit" or something similar to end the game.
+4. Your program shall continue looping for user input until the user types "q" to end the game.
+5. Your program shall handle an inivalid user entry by letting the user know their selection was invalid. (Use the word "Invalid" in your feedback)
 5. Your program shall keep track of wins, losses and ties and display the final "score board" at the end of the game.
 
     Here are three examples of the end-of-game score board format:
