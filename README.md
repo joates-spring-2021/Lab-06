@@ -8,7 +8,7 @@ Rock, Paper, Scissors is a popular game often played by children, or child-like 
 The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a weapon that defeats their choice under the following rules:
 - Rock smashes Scissors (so Rock wins)
 - Scissors cuts Paper (so Scissors win)
-- Paper covers Tock (so Paper wins)
+- Paper covers Rock (so Paper wins)
 - If the players choose the same weapon, neither win and the game is played again
 
 # Requirements
